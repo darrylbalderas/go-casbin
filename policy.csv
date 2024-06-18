@@ -1,0 +1,6 @@
+p, admin, domain1, data1, read
+p, admin, domain1, data1, write
+p, admin, domain2, data2, read
+
+g, group1, admin, domain1
+g, group2, admin, domain2
